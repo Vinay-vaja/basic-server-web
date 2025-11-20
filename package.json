@@ -5,7 +5,7 @@
   "license": "ISC",
   "author": "Vinay Vaja",
   "type": "commonjs",
-  "main": "vin",
+  "main": "",
   "scripts": {
     "test": "vk",
     "start": "node app.js"
